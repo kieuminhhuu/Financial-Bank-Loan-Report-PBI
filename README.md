@@ -38,7 +38,7 @@ Banks analyse loan data for several critical reasons:
   - **Interest Rate:** Interest Rate represents the annual cost of borrowing expressed as a percentage. It determines the loan's cost.<br/>
   - **Loan Amount:** Loan Amount is the total borrowed sum. It defines the principal amount.<br/>
 ## Analysis & Visualization
-1. Summary Page
+1. **Summary Page**
 ![summary](https://github.com/user-attachments/assets/cd615676-80e7-4ac2-9592-d020238c2fd1) <br />
 - Total Loan Applications:
   - 38.6K loan applications processed.
@@ -57,7 +57,7 @@ Banks analyse loan data for several critical reasons:
   - Other purposes such as Credit card (5K), Home improvement (3K), and Small business (2K) are also notable
 - Loan Applications by Term:
   - The majority of loans have a term of 60 months (73.2%) compared to 36 months (26.8%), indicating that borrowers tend to choose longer terms, possibly to reduce the pressure of monthly interest payments
-2. Overview Page
+2. **Overview Page**
 ![detail](https://github.com/user-attachments/assets/ba2aaef6-3f9f-4440-89bb-c58ed3a2c1bf) <br />
 - Loan Applications by Month:
   - The number of loan applications increased gradually over the months of the year. From January with 2.3K applications, to December with 4.3K, showing a steady increase in loan demand
@@ -66,5 +66,5 @@ Banks analyse loan data for several critical reasons:
   - The group with less than 1 year of work experience accounted for 4.6K loan applications, showing that even people who have just started working have a need for loans, possibly to pay off debts or cover living expenses.
 - Analysis by Home Ownership:
   - Renters accounted for the majority of loan applications (18.4K compared to 17.2K of mortgage holders). This may indicate that renters tend to need to borrow to manage living expenses or debt, while homeowners may borrow to pay off debt or borrow to buy a home.
-3. Detail Page
+3. **Detail Page**
 ![overview](https://github.com/user-attachments/assets/4d78ddca-b7af-4faa-88ce-2a3cefef745f) <br />
