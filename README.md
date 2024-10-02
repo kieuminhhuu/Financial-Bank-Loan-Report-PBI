@@ -40,7 +40,7 @@ Banks analyse loan data for several critical reasons:
 ## Analysis & Visualization
 1. Summary Page
 ![summary](https://github.com/user-attachments/assets/cd615676-80e7-4ac2-9592-d020238c2fd1) <br />
-- Tổng số đơn vay (Total Loan Applications):
+- Tổng hồ sơ vay (Total Loan Applications):
   - 38.6K đơn vay đã được xử lý.
   - Số lượng đơn vay tăng 6.9% so với tháng trước (MoM), điều này cho thấy nhu cầu vay vốn đang tăng lên.
   - Số lượng đơn vay trong tháng hiện tại (MTD) là 4.3K, có thể tiếp tục tăng vào cuối tháng
