@@ -44,22 +44,22 @@ Banks analyse loan data for several critical reasons:
   - 38.6K đơn vay đã được xử lý.
   - Số lượng đơn vay tăng 6.9% so với tháng trước (MoM), điều này cho thấy nhu cầu vay vốn đang tăng lên.
   - Số lượng đơn vay trong tháng hiện tại (MTD) là 4.3K, có thể tiếp tục tăng vào cuối tháng
--  Khoản vay tốt và xấu (Good vs Bad Loans):
+- Hồ sơ vay tốt và xấu (Good vs Bad Loans):
   - 86.2% của các khoản vay được xem là Good Loans (khoảng 33.2K đơn), cho thấy tỷ lệ nợ xấu thấp chỉ 13.8% (khoảng 5.3K đơn là Bad Loans).
   - Tổng số tiền nhận từ các khoản vay tốt là $435.8M, trong khi tổng số tiền nhận từ các khoản vay xấu là $37.3M
-- Lãi suất trung bình (Average Interest Rate)
+- Lãi suất trung bình (Average Interest Rate):
   - Lãi suất trung bình là 12.05%, tăng nhẹ 3.5% so với tháng trước
   - Điều này có thể do chính sách ngân hàng hoặc tình hình thị trường tài chính thay đổi, nhưng vẫn trong mức chấp nhận được cho các khoản vay cá nhân hoặc doanh nghiệp nhỏ
-- DTI trung bình (Average DTI - Debt-to-Income Ratio)
+- DTI trung bình (Average DTI - Debt-to-Income Ratio):
   - Tỷ lệ DTI trung bình là 13.33%, cho thấy hầu hết người vay có mức nợ không quá cao so với thu nhập, dấu hiệu cho thấy rủi ro về nợ xấu vẫn được kiểm soát
--  Phân tích theo mục đích vay (Loan Applications by Purpose)
+- Phân tích theo mục đích vay (Loan Applications by Purpose):
   - Mục đích vay phổ biến nhất là Debt consolidation với 18K đơn vay, cho thấy nhiều người vay đang tìm cách quản lý nợ hiện tại
   - Các mục đích khác như Credit card (5K), Home improvement (3K), và Small business (2K) cũng đáng chú ý
-- Thời hạn khoản vay (Loan Applications by Term)
+- Thời hạn khoản vay (Loan Applications by Term):
   - Phần lớn các khoản vay có kỳ hạn 60 tháng (73.2%) so với 36 tháng (26.8%), cho thấy người vay có xu hướng lựa chọn thời hạn dài hơn, có thể để giảm áp lực thanh toán tiền lãi hàng tháng
 2. Overview Page
 ![detail](https://github.com/user-attachments/assets/ba2aaef6-3f9f-4440-89bb-c58ed3a2c1bf) <br />
--  Tăng trưởng hồ sơ vay theo tháng (Loan Applications by Month):
+- Tăng trưởng hồ sơ vay theo tháng (Loan Applications by Month):
   - Số lượng đơn vay tăng dần qua các tháng trong năm. Từ tháng 1 với 2.3K đơn, đến tháng 12 là 4.3K, cho thấy nhu cầu vay vốn tăng đều đặn
 - Hồ sơ vay vốn theo thời gian làm việc(Loan Applications by Employee Length):
   - Nhóm có thời gian làm việc 10+ năm chiếm 8.9K đơn vay, nhiều nhất trong tất cả các nhóm, cho thấy những người có công việc ổn định thường có xu hướng vay nhiều hơn.
