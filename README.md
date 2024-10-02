@@ -37,3 +37,7 @@ Banks analyse loan data for several critical reasons:
   - **Instalment:** Instalment is the fixed monthly payment amount for loan repayment, including principal and interest.<br/>
   - **Interest Rate:** Interest Rate represents the annual cost of borrowing expressed as a percentage. It determines the loan's cost.<br/>
   - **Loan Amount:** Loan Amount is the total borrowed sum. It defines the principal amount.<br/>
+## Analysis & Visualization
+1. Summary Page
+2. Overview Page
+3. Detail Page
