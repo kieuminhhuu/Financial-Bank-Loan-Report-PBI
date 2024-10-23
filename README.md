@@ -1,4 +1,4 @@
-# Finance Bank Loan Report [PBI]
+# Financial Bank Loan Report [PBI]
 ## Introduction
 ### 1. About
 - In order to monitor and assess our bank's lending activities and performance, Bank Loan Report provide insights into key loan-related metrics and their changes over time. The report will help manager make data-driven decisions, track loan portfolio's health, and identify trends that can inform lending strategies
